@@ -1,0 +1,13 @@
+name = "Create: Better Pumps"
+filename = "createbetterpumps-0.0.2-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1cdedab0f76a2c570e3fb160f95582311560311d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6622103
+project-id = 1272092

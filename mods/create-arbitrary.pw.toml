@@ -1,0 +1,13 @@
+name = "Create Arbitrary"
+filename = "createarbitrary-0.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "90552bb8d070d7f57ff9f52e9ca6009799ba8328"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6434953
+project-id = 1245562

@@ -1,0 +1,13 @@
+name = "Better McDonald's Mod"
+filename = "better_mcdonalds_mod-neoforge-4.4.4+1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a987702d119f1f8ef22559d5094f094ea00de616"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6667217
+project-id = 546816

@@ -1,0 +1,13 @@
+name = "A Minecraft Movie Discs"
+filename = "Minecraft Movie Discs.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4378691cc3f6a145d287b3b924854a2faf7add44"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6484419
+project-id = 1248200

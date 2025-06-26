@@ -1,0 +1,13 @@
+name = "Create: Mobile Packages"
+filename = "create_mobile_packages-1.21.1-0.5.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0f44e8a08517c66e22df5aea87db6a552ce712ea"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6631691
+project-id = 1232978

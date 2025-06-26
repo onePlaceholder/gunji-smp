@@ -1,0 +1,13 @@
+name = "Create: Better Motors"
+filename = "create_better_motors-3.1.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "505998a6a7cd1c265164fdf172d88589411b70f3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6486991
+project-id = 1162812

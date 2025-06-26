@@ -1,0 +1,13 @@
+name = "Create: Pure Glass"
+filename = "createpureglass-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c676f29fe6a588aa861c7ba88ea1deb15cf026dc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6636894
+project-id = 1283372

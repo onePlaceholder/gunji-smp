@@ -1,0 +1,13 @@
+name = "Create : New Furnitures"
+filename = "create_furnitures-1.1.1-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8f06187a0fdd41ba8235e129dbe425c1b986a5a9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6638461
+project-id = 1162995

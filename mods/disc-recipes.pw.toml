@@ -1,0 +1,13 @@
+name = "Disc Recipes"
+filename = "Craftable Discs.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "19b8babfa6af324464ecf2702cdb0468b3e61c09"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6437628
+project-id = 1246257
