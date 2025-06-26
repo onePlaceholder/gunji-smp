@@ -245,6 +245,11 @@ hash = "9650aadb0e3e879bbab06ecaab5b9aa3e786476b7a19a4ecd3bf5b5d0e8b59a8"
 metafile = true
 
 [[files]]
+file = "mods/create-compressed.pw.toml"
+hash = "f33839cc6e7476f117fee6f062770dc19bbd4be41cb430ffabefa79c4c6bf308"
+metafile = true
+
+[[files]]
 file = "mods/create-confectionery.pw.toml"
 hash = "39d487bdf8979cc0b63a0d34ace0477e9aae5835e33fd9213aecca994025eca1"
 metafile = true
@@ -367,6 +372,11 @@ metafile = true
 [[files]]
 file = "mods/create-new-furnitures.pw.toml"
 hash = "a6ee1697ee2f3a890c04c30a141de645b2903c164eb0e1ccd2a61a22bd2e9a3e"
+metafile = true
+
+[[files]]
+file = "mods/create-oxidized.pw.toml"
+hash = "cde568a867601aaf6b779b6565bf2ed19f127fa1415f8d68f30b25b2dc70de42"
 metafile = true
 
 [[files]]
@@ -585,7 +595,7 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-library-forge.pw.toml"
-hash = "c6aaaea89ba6630ab8bade12431d2e3d710cd3ba88be9e55b85be258f2aa17b3"
+hash = "8e13e6690f8c0efd8df331eed9a6c4afa5b9d6b2f90fe3607240d69430cfe36a"
 metafile = true
 
 [[files]]
@@ -715,7 +725,7 @@ metafile = true
 
 [[files]]
 file = "mods/mafglib.pw.toml"
-hash = "92adc4166c6f47eb35893db68f35b072562b42025615bd63344753e6c25c2940"
+hash = "b363041703621389bcd8bea3b59a883605f2ed8195b7ddf508d151731724a551"
 metafile = true
 
 [[files]]
@@ -801,6 +811,11 @@ metafile = true
 [[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "ee35392cd74464af3b668fac4356b6e0415be59c21c09f257fb5c83d1b01a0fe"
+metafile = true
+
+[[files]]
+file = "mods/particle-core.pw.toml"
+hash = "5552f19bf64b1151452efdd0848611ce417e1073e48639910f8a7fdb4a9ac803"
 metafile = true
 
 [[files]]
@@ -931,6 +946,11 @@ metafile = true
 [[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "b16ee8ff10576cf6ef43fd6a2828463faf96de88e6409f9ee6b3dd31645d282d"
+metafile = true
+
+[[files]]
+file = "mods/sodium-options-api.pw.toml"
+hash = "05953528b550760efecc9834796d90177e09bd0d231ce814b43578e386468a73"
 metafile = true
 
 [[files]]

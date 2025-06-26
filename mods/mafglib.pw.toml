@@ -1,13 +1,13 @@
 name = "MaFgLib"
-filename = "MaFgLib-0.3.3-mc1.21.1.jar"
+filename = "MaFgLib-0.3.4-mc1.21.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "22f5d72b1a4d69a1fa308998c9274fde00484ae3"
+hash = "1f761c6f3de1c10fde31e7237ab18599a73f32ee"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6561101
+file-id = 6686979
 project-id = 910766
