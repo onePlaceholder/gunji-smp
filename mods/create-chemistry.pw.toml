@@ -1,13 +1,13 @@
 name = "Create: Chemistry"
-filename = "createchemistry-1.0.1.jar"
+filename = "createchemistry-1.1.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "bf3f9a26f99f7612288f7e867b453ee1241ee1b7"
+hash = "6763f2796dc3407c505fc7be91acf1e9e920f915"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6635662
+file-id = 6657075
 project-id = 1276624

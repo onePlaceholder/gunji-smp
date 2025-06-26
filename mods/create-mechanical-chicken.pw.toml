@@ -1,13 +1,13 @@
 name = "Create Mechanical Chicken"
-filename = "create_mechanical_chicken-1.21.1-1.3.2-6.0.4.jar"
+filename = "create_mechanical_chicken-1.21.1-1.3.3-6.0.6.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "45b01c6b86ac3cac1bd5c74a30e60e5100425944"
+hash = "9d6cdef1b998a4aba9fc2bbd0df6e6e71c36772c"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6541417
+file-id = 6646796
 project-id = 1107296

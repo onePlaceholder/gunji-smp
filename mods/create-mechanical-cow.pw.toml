@@ -1,13 +1,13 @@
 name = "Create Mechanical Cow"
-filename = "mechanical_cow-1.21.1-1.1.2-6.0.4.jar"
+filename = "mechanical_cow-1.21.1-1.1.3-6.0.6.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "25beae4f64d5a28329a7915594b88c2a1e5d4816"
+hash = "cb4ff4ebf5663e5192a9c21601349d7302b35bcc"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6541418
+file-id = 6646800
 project-id = 1241678
