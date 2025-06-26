@@ -524,11 +524,6 @@ hash = "b945b849d8570b452fae214ab90add58d7f421156f2dc46886fcd39c71c3d14e"
 metafile = true
 
 [[files]]
-file = "mods/essential-mod.pw.toml"
-hash = "606686080de5a20442bbbd145220b3c645dd15b107be09351da30d01a072498b"
-metafile = true
-
-[[files]]
 file = "mods/etched.pw.toml"
 hash = "3e11ffcdd1d2c77ac05bf2fbeb52f746491efbc8b2664e80aed8670856c0f686"
 metafile = true
@@ -725,7 +720,7 @@ metafile = true
 
 [[files]]
 file = "mods/mafglib.pw.toml"
-hash = "b363041703621389bcd8bea3b59a883605f2ed8195b7ddf508d151731724a551"
+hash = "1211d52bdbf0ff38eea85e1be88a44e5774fb15e0fc626e05739d55b3f8b237d"
 metafile = true
 
 [[files]]
