@@ -311,11 +311,6 @@ hash = "3c0f56d9d2d114a437e16d336384947b60e736881295a257fb94b375ad57225c"
 metafile = true
 
 [[files]]
-file = "mods/create-fantastic-weapons.pw.toml"
-hash = "55401c638cc31162fc1d921eca3b980cb0908030e5816227b28bb0eadbd8810f"
-metafile = true
-
-[[files]]
 file = "mods/create-framed.pw.toml"
 hash = "456e15bbe639e1fcd63d3e8e09d73d319d2d0cb31ac467d5b22820420448d7b5"
 metafile = true
