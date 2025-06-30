@@ -671,7 +671,7 @@ metafile = true
 
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
-hash = "8fb821696362916090187ec37c353f7fd6da70e83c0b493ec3d6e669934febb2"
+hash = "255756c5e60117e7dc98278ffa78e594d9bdc8bb9005d88a087a4236f887d6cc"
 metafile = true
 
 [[files]]
@@ -757,11 +757,6 @@ metafile = true
 [[files]]
 file = "mods/necronomicon.pw.toml"
 hash = "6acba5e53610fc3e62bd9641aeaaba056f99248a2d1d86bbf032061a1e408826"
-metafile = true
-
-[[files]]
-file = "mods/neoessentials.pw.toml"
-hash = "74e5da9929c5876798f386007d0427a144f61676731587b978e43cfce86a7882"
 metafile = true
 
 [[files]]
@@ -1012,11 +1007,6 @@ metafile = true
 [[files]]
 file = "mods/terrablender-neoforge.pw.toml"
 hash = "d77e4dc337b6090358c1ef01b0f99a8357e5279443e0e23e511de1be865c01c9"
-metafile = true
-
-[[files]]
-file = "mods/terrablender.pw.toml"
-hash = "4cdd3a94451efd61ad53cec5019557042cc9a3bc455632aa931663b70850958a"
 metafile = true
 
 [[files]]
