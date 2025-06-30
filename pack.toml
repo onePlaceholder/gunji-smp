@@ -1,11 +1,11 @@
 name = "Gunji SMP"
-version = "2.3"
+version = "2.7"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "d9133e0ac14b8d4088afe8dfc8499a5e7d4ca4df2d0c0dc094dbae76d0836a9a"
+hash = "a864db5e70b55d8072aa2986690fa1d5ed7ce923a2d8ee00b411997573512660"
 
 [versions]
 minecraft = "1.21.1"
