@@ -457,8 +457,9 @@ hash = "1070f0faa541f5be34e84140f981d12e08d6d4ee753a7b0b0938c3b8760b2bd2"
 metafile = true
 
 [[files]]
-file = "mods/createaddition-1.4.2_patchA.jar"
-hash = "2a76f2b93961c813d1a0fb8caba1777a6f0bad26a26cd5ee8e9cf4b32b08a0a3"
+file = "mods/createaddition.pw.toml"
+hash = "cde09b142a7998957dcf3d1effec07b9563c520e168fc1f63e7750fb7e6f80bb"
+metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
