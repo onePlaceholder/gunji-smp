@@ -1,6 +1,22 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/fancymenu/customizablemenus.txt"
+hash = "33a7538189b104668ba576efd64da9f2dfba1a8ec5e63c99a95eb2085175633a"
+
+[[files]]
+file = "config/fancymenu/customization/pause_screen.txt"
+hash = "9da3c2091e3d53b08e9ed6aba2bf4af2a75689760c13971430939efda5191494"
+
+[[files]]
+file = "config/fancymenu/customization/title_screen.txt"
+hash = "33db460fb4e4a020e9f6499f4ec767ee14c6b739177e348a8afc84fe4f0b13ae"
+
+[[files]]
+file = "config/fancymenu/options.txt"
+hash = "668b8379eb7bcb4af37b94106458e43af3f03f9283c7cf7851bc265bc32abedd"
+
+[[files]]
 file = "mods/accessories-cc-layer.pw.toml"
 hash = "c923f6539fabaadf6234b8346111069baa53fcc95d2445a7eebc50cb3751c25d"
 metafile = true
@@ -18,6 +34,11 @@ metafile = true
 [[files]]
 file = "mods/advanced-netherite.pw.toml"
 hash = "aa46a4ee72007fef238f8a442523effa94e864a7741db5538decc710119a02a9"
+metafile = true
+
+[[files]]
+file = "mods/advancement-no-more.pw.toml"
+hash = "ec6de68578c86b5a4efb11eda4c68bda94ecb6907c723b41ff41eb1a827d3dc1"
 metafile = true
 
 [[files]]
@@ -537,6 +558,11 @@ metafile = true
 [[files]]
 file = "mods/extended-wrenches.pw.toml"
 hash = "c3dad61d8142254a860f6563e7ee5337828c49f9db3e3af808eaabe652b1562a"
+metafile = true
+
+[[files]]
+file = "mods/fancymenu.pw.toml"
+hash = "f94e5eedeb9e70a842200b280ab93e64ac6792c004a6e8e56aaa407d584dedeb"
 metafile = true
 
 [[files]]

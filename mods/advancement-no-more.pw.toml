@@ -1,0 +1,13 @@
+name = "Advancement... No More !!!"
+filename = "anm-neoforge-2.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "63cd0fb5ce39c7c57a13a4b6bbb275c06d39fd43"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6417720
+project-id = 959354
