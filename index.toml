@@ -165,6 +165,11 @@ hash = "d362a013bef0c4e8ade6bf77e97478833902210cc70ad7d133aece3f1c3e37a6"
 metafile = true
 
 [[files]]
+file = "mods/connector.pw.toml"
+hash = "9f920c5f1df2577cf374285e4aad4f2982a30ea2a3da1cf7ddaf25e04b3a2e31"
+metafile = true
+
+[[files]]
 file = "mods/controlling.pw.toml"
 hash = "42ffb6f5835250003da6ca3667ff751709ea295faee43b49c365b0f6c1e8f4d8"
 metafile = true
@@ -961,6 +966,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "8d5628a4af0f355519b17bb0c6e5783c30aa78f6aa04b77b3892cd5d7c10af03"
+metafile = true
+
+[[files]]
+file = "mods/solstice-essentials.pw.toml"
+hash = "62df4ef224e78e27f7a5de0c2ff67550ec3f93140eb0c04dc5b02b87b1ded904"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Solstice Essentials"
+filename = "solstice-1.8.2+1.21.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/uIvrDZas/versions/JAaw8AoC/solstice-1.8.2%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "5d9c98cf76f935dc38e070f160b802e5f7528f51bf81a128e0feaa04a5d0ea794fe46a90fe0e76c0cb27e5a3f275822fd820a3cfddf42877c91d6a65011cbfee"
+
+[update]
+[update.modrinth]
+mod-id = "uIvrDZas"
+version = "JAaw8AoC"
