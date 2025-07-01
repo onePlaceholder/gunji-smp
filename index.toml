@@ -1,20 +1,8 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/fancymenu/customizablemenus.txt"
-hash = "33a7538189b104668ba576efd64da9f2dfba1a8ec5e63c99a95eb2085175633a"
-
-[[files]]
-file = "config/fancymenu/customization/pause_screen.txt"
-hash = "23f31c6e12693314db02e475cc61e796232fafcd444e860081527607a8a155f7"
-
-[[files]]
-file = "config/fancymenu/customization/title_screen.txt"
-hash = "854c24cf0493be54debb4a1a5c1458456d53625be556fa4b4541a8351c40ea99"
-
-[[files]]
-file = "config/fancymenu/options.txt"
-hash = "668b8379eb7bcb4af37b94106458e43af3f03f9283c7cf7851bc265bc32abedd"
+file = "config/voicechat/voicechat-server.properties"
+hash = "060d0cf5af409ef168d13240fc509516b0f254f47971b2c57badd5fc08804e12"
 
 [[files]]
 file = "mods/accessories-cc-layer.pw.toml"
@@ -1073,23 +1061,4 @@ metafile = true
 [[files]]
 file = "mods/yeetusexperimentus.pw.toml"
 hash = "7c6f2e38a6932f846738747fd6cff3af239748a84e89350f6c967c8ac72a65d6"
-metafile = true
-
-[[files]]
-file = "resourcepacks/fresh-animations-extensions.pw.toml"
-hash = "522b6775ddf8d95728eec0f8055d4e0d9416b4ae7ab45795c625b5390a5db696"
-metafile = true
-
-[[files]]
-file = "resourcepacks/fresh-animations.pw.toml"
-hash = "a837a6ef76177cd45f425ed3a72fef3454c761fda77507d8f1943ddabf54e8df"
-metafile = true
-
-[[files]]
-file = "resourcepacks/gunjicoin.zip"
-hash = "8e47a60816ba63e3c0b0c69624d74b864f3aeea9bb1267b42884c271d0c428a9"
-
-[[files]]
-file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "77648e26296071f790bea303b2b2c171b64681385e5b3bacada7d9f75dd54297"
 metafile = true
