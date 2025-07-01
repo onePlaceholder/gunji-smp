@@ -6,11 +6,11 @@ hash = "33a7538189b104668ba576efd64da9f2dfba1a8ec5e63c99a95eb2085175633a"
 
 [[files]]
 file = "config/fancymenu/customization/pause_screen.txt"
-hash = "9da3c2091e3d53b08e9ed6aba2bf4af2a75689760c13971430939efda5191494"
+hash = "23f31c6e12693314db02e475cc61e796232fafcd444e860081527607a8a155f7"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen.txt"
-hash = "33db460fb4e4a020e9f6499f4ec767ee14c6b739177e348a8afc84fe4f0b13ae"
+hash = "854c24cf0493be54debb4a1a5c1458456d53625be556fa4b4541a8351c40ea99"
 
 [[files]]
 file = "config/fancymenu/options.txt"
@@ -34,11 +34,6 @@ metafile = true
 [[files]]
 file = "mods/advanced-netherite.pw.toml"
 hash = "aa46a4ee72007fef238f8a442523effa94e864a7741db5538decc710119a02a9"
-metafile = true
-
-[[files]]
-file = "mods/advancement-no-more.pw.toml"
-hash = "ec6de68578c86b5a4efb11eda4c68bda94ecb6907c723b41ff41eb1a827d3dc1"
 metafile = true
 
 [[files]]
@@ -143,7 +138,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf.pw.toml"
-hash = "08d726bfed2555eda3603159d9a4895f3aa29c522eeea27ec67cdcb8b6013dac"
+hash = "74993341cf5a37bf01842c434688def47648fdc6d119f9acb41edd91317d7b22"
 metafile = true
 
 [[files]]
@@ -308,12 +303,12 @@ metafile = true
 
 [[files]]
 file = "mods/create-encased.pw.toml"
-hash = "8f5c0234b7ff63f22a4825ebd8a800dd9b66b67c3390d3139df80b6baada99cd"
+hash = "0b29655d3525dd2960dba8537f38db68bf0a08a7e3e7e60082abee26dfbc3569"
 metafile = true
 
 [[files]]
 file = "mods/create-enchantable-machinery.pw.toml"
-hash = "5a9bcfc7687253d6c68f20f83ee87b56d403bcccde872cf6cfd3b39fde34c2d8"
+hash = "949b12085efd9512dac41051e0ff1af7723ab03df324019b67fce4bf7833a5d6"
 metafile = true
 
 [[files]]
@@ -457,9 +452,8 @@ hash = "1070f0faa541f5be34e84140f981d12e08d6d4ee753a7b0b0938c3b8760b2bd2"
 metafile = true
 
 [[files]]
-file = "mods/createaddition.pw.toml"
-hash = "cde09b142a7998957dcf3d1effec07b9563c520e168fc1f63e7750fb7e6f80bb"
-metafile = true
+file = "mods/createaddition-1.4.2_patchA.jar"
+hash = "2a76f2b93961c813d1a0fb8caba1777a6f0bad26a26cd5ee8e9cf4b32b08a0a3"
 
 [[files]]
 file = "mods/creativecore.pw.toml"
@@ -522,6 +516,11 @@ hash = "0695a6de9cb50b8e2e1c6a0b0d7d16d894c20668a234fcb75ea56f5a1a2e6413"
 metafile = true
 
 [[files]]
+file = "mods/emi.pw.toml"
+hash = "1fc8ab07ea6f6abf5252a680f4ee72d7feaa652bc6b17214b1ddc5f5fe4c5d6d"
+metafile = true
+
+[[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "118a913715617f19779a2b9e6685bb17a7c2f3665546a98354be9a8bdff6c105"
 metafile = true
@@ -563,7 +562,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "f94e5eedeb9e70a842200b280ab93e64ac6792c004a6e8e56aaa407d584dedeb"
+hash = "059ca79a7018e615626bd8846a0eb90c21fdd31c1fe607e8d1bd860f02f5c860"
 metafile = true
 
 [[files]]
@@ -687,6 +686,11 @@ hash = "63777b41574a0a991a58257a9d90194f605d2a6b74cbc19e81e4006e51985cb5"
 metafile = true
 
 [[files]]
+file = "mods/jei.pw.toml"
+hash = "fe9ce277843026156c6f05e532b1b6ded0adeec63a740d758e75e467aecc7196"
+metafile = true
+
+[[files]]
 file = "mods/just-zoom.pw.toml"
 hash = "5345bb641d6b9307c6a05f12885315537386519476bd2aee79d9fd1181268a7a"
 metafile = true
@@ -698,7 +702,7 @@ metafile = true
 
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
-hash = "255756c5e60117e7dc98278ffa78e594d9bdc8bb9005d88a087a4236f887d6cc"
+hash = "8fb821696362916090187ec37c353f7fd6da70e83c0b493ec3d6e669934febb2"
 metafile = true
 
 [[files]]
@@ -912,11 +916,6 @@ hash = "6a48780ffd4bc3b941f81232c84034aba5ff7645ea635c604de6df71e6596bb3"
 metafile = true
 
 [[files]]
-file = "mods/reforgedplay-mod.pw.toml"
-hash = "fd35e35d1bbde012a1dd63b35ac5a205a51c2c47ccb03c3cf4570b014a92e368"
-metafile = true
-
-[[files]]
 file = "mods/relics-mod.pw.toml"
 hash = "6ab010914e5472082ccf894b232d61a01793c27e554adc6fd12ab4f7966dde73"
 metafile = true
@@ -929,11 +928,6 @@ metafile = true
 [[files]]
 file = "mods/rhino.pw.toml"
 hash = "9dfeb4b87e376aacf809236ade964c2e37943aaff4d7a5774442f7cca52b76de"
-metafile = true
-
-[[files]]
-file = "mods/roughly-enough-items.pw.toml"
-hash = "3ca1a386b5c7e74db49d691017bf538aea04c0473715fd13f30c25ba77173fb7"
 metafile = true
 
 [[files]]
@@ -1033,7 +1027,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "23190a1ae84aa06188274e582b88bb2479acce594120ade577a3fe63f727e86c"
+hash = "5f1eede80592f94908a686b99d3d8774c81521c58a13579c272cc21f6d83f3f7"
 metafile = true
 
 [[files]]
