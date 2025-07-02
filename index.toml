@@ -17,6 +17,18 @@ file = "config/fancymenu/options.txt"
 hash = "668b8379eb7bcb4af37b94106458e43af3f03f9283c7cf7851bc265bc32abedd"
 
 [[files]]
+file = "config/solstice/config.conf"
+hash = "c30697d9bf1ba8aefdae9025e20b6dd6461ebe6f4bf79f7d330849d323c8cbe7"
+
+[[files]]
+file = "config/solstice/modules.conf"
+hash = "8c2bfc29f89d8adecc84db40384799e5f62d3c4978c8b86a78758de9baeb68fc"
+
+[[files]]
+file = "config/voicechat/voicechat-server.properties"
+hash = "060d0cf5af409ef168d13240fc509516b0f254f47971b2c57badd5fc08804e12"
+
+[[files]]
 file = "mods/accessories-cc-layer.pw.toml"
 hash = "c923f6539fabaadf6234b8346111069baa53fcc95d2445a7eebc50cb3751c25d"
 metafile = true
@@ -34,11 +46,6 @@ metafile = true
 [[files]]
 file = "mods/advanced-netherite.pw.toml"
 hash = "aa46a4ee72007fef238f8a442523effa94e864a7741db5538decc710119a02a9"
-metafile = true
-
-[[files]]
-file = "mods/alltheleaks.pw.toml"
-hash = "a6ebfd6216892d39e9ea0bcb3e232ca433f9ec614594757cd0d33044b58b2429"
 metafile = true
 
 [[files]]
@@ -138,7 +145,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf.pw.toml"
-hash = "74993341cf5a37bf01842c434688def47648fdc6d119f9acb41edd91317d7b22"
+hash = "0eb5a072fdf96bbebe654c96a571123e4f4cb25ad67d8e4aaca1160358459531"
 metafile = true
 
 [[files]]
@@ -213,7 +220,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-better-fps.pw.toml"
-hash = "6aae71041f3ea6c81f5d463bc2e0d7b4f185aa2c28bcef70ac15cea1d703007e"
+hash = "0c38cbbaa9ec17c7498a72a483155c9558d57504831fa53fa41586e6e56a80d0"
 metafile = true
 
 [[files]]
@@ -368,7 +375,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-mobile-packages.pw.toml"
-hash = "55d88d7571a7f798a81edd3cd0f9c3346da3663532b7b68c7075046a0469348d"
+hash = "f66c1e01cf2865fed8d416e567b88a5c908194c02e5a781bf33121645f7134f8"
 metafile = true
 
 [[files]]
@@ -413,7 +420,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-sound-of-steam.pw.toml"
-hash = "da864f4baa1bc545a15b4eaf4405dace95a016370930691847e343b358b7b8b5"
+hash = "ff7589f72974c68767f360db4a55782d9a65560f359e39c2a3eeb3851335182b"
 metafile = true
 
 [[files]]
@@ -607,7 +614,7 @@ metafile = true
 
 [[files]]
 file = "mods/free-cam.pw.toml"
-hash = "1ec51dc8dad86f92dc52372f4491ce641b99a6ed018306b293b9cf17c3c65c6a"
+hash = "6cb0747f46236c96b3132b4d8bee0fd2b1409340dace5dc7b336a5534fa597f5"
 metafile = true
 
 [[files]]
@@ -661,6 +668,11 @@ hash = "d573695d37296209dc06495d359c4b283ffa6640bcfe8aa9c9b59eb420891788"
 metafile = true
 
 [[files]]
+file = "mods/hidden-recipe-book.pw.toml"
+hash = "36887a7948bc7db564df087c7236fb97d7ec62f9491bad149266ee5ca10589da"
+metafile = true
+
+[[files]]
 file = "mods/hypertubes.pw.toml"
 hash = "ec2a139e36bd42e14507bce49710734c2d46f2ec21f5bf47bf04301fc191b9b2"
 metafile = true
@@ -673,6 +685,11 @@ metafile = true
 [[files]]
 file = "mods/immersive-aircraft.pw.toml"
 hash = "51108048fd88cd4375b7f91c5327f8ec0d6eb3295ccb9011d42520784c175409"
+metafile = true
+
+[[files]]
+file = "mods/immersive-paintings.pw.toml"
+hash = "f396d2451d69bd7ccc614896063ae9fec63f42f916486c571c6fc00f6383c673"
 metafile = true
 
 [[files]]
@@ -692,7 +709,7 @@ metafile = true
 
 [[files]]
 file = "mods/just-zoom.pw.toml"
-hash = "5345bb641d6b9307c6a05f12885315537386519476bd2aee79d9fd1181268a7a"
+hash = "9cf35d5b0b7ab064ea54e393af17304e5264ee6a59f5224fb5b79ad3c45ea22f"
 metafile = true
 
 [[files]]
@@ -741,6 +758,11 @@ hash = "20084e6c096135548dbceb71e6adb7ed2cdaa66dc4e3e2e3bc2055091e109bbe"
 metafile = true
 
 [[files]]
+file = "mods/luckperms.pw.toml"
+hash = "91e6a0e562023e927ca1c56bdfd5df673609cac23528f768a83afe3674cdd0c0"
+metafile = true
+
+[[files]]
 file = "mods/mafglib.pw.toml"
 hash = "d590a8d24e2411ae1491df68defd6a3e4c57bfede7c871085d8c24afb28375af"
 metafile = true
@@ -762,12 +784,12 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "9d5a7849e8434740de47b1e57ac57e3001ee2ac884089ca9d4f2e0f1a59c862e"
+hash = "8b84f5b11f6fd46bde2482596d73829f48aaa6889298742eaef425b99a83c4d0"
 metafile = true
 
 [[files]]
 file = "mods/monolib.pw.toml"
-hash = "4387cfb8d69490641337ec3d42a8a434683a2d2b129990705e78a800f2795ad1"
+hash = "5c2f11ea39ae71efdb6fef6e0f601faeeacf10b4297057202a7ffd7bfbcb0d23"
 metafile = true
 
 [[files]]
@@ -802,7 +824,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "03a370e79fef40daca8af2df93bdb511862f6581847cc8fd15fd4c7b8f5b6699"
+hash = "af97141f706ab634b7fc85458bb39eb3968a5dd714ca30e2cf68a1f1e1e7aac2"
 metafile = true
 
 [[files]]
@@ -947,7 +969,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "4e92630281b281559234080555d57a3debc8e9b84c9bf7a87dd5438961f57c59"
+hash = "7732d6a5d69a021ff84ae5d933aaf81db9859c3fad19e996aa496abae5eb876a"
 metafile = true
 
 [[files]]
@@ -956,23 +978,33 @@ hash = "d1c7c8a79ca172c7f4adf2cd2cbe0cfaa6bcc6c1db40452488f61ea7e44f87fc"
 metafile = true
 
 [[files]]
+file = "mods/sinytra-connector.pw.toml"
+hash = "27f0553f5051f50814e497eee97191ec7764332f4e7b4b3841b08ae58af4a747"
+metafile = true
+
+[[files]]
 file = "mods/skin-layers-3d.pw.toml"
-hash = "bf211d5fd095d84a0dea312e6ef9235a39a9ac39d7a58db914888b619a670693"
+hash = "3da488d70698eb949d7212f4e35cccc89ab2654ccbadd1727bf228d7e2492adb"
 metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "b16ee8ff10576cf6ef43fd6a2828463faf96de88e6409f9ee6b3dd31645d282d"
+hash = "03d264a85c6b6fd0f011c958caf94a3238931fdd48c5c156ddb6e13fc16ce601"
 metafile = true
 
 [[files]]
 file = "mods/sodium-options-api.pw.toml"
-hash = "05953528b550760efecc9834796d90177e09bd0d231ce814b43578e386468a73"
+hash = "40e1fdc8c58f72bb947b978a773cf963b2d28bb49832500c2bd886f7ac6629bb"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "8d5628a4af0f355519b17bb0c6e5783c30aa78f6aa04b77b3892cd5d7c10af03"
+hash = "f3c75c6d415e4d68307d972ed30ced99ba05968c7ff85301154a60fc42eeed95"
+metafile = true
+
+[[files]]
+file = "mods/solstice-essentials.pw.toml"
+hash = "62df4ef224e78e27f7a5de0c2ff67550ec3f93140eb0c04dc5b02b87b1ded904"
 metafile = true
 
 [[files]]
@@ -1077,12 +1109,12 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/fresh-animations-extensions.pw.toml"
-hash = "522b6775ddf8d95728eec0f8055d4e0d9416b4ae7ab45795c625b5390a5db696"
+hash = "a1e72eb78425cc0e9ca431427430f45f8113a59a0062f2ee54174b0218877f3e"
 metafile = true
 
 [[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
-hash = "a837a6ef76177cd45f425ed3a72fef3454c761fda77507d8f1943ddabf54e8df"
+hash = "33c625f334d68395ca1084fc7a3efb1cdd80d2d8c9eaf234150c64bd62054f1d"
 metafile = true
 
 [[files]]
@@ -1091,5 +1123,5 @@ hash = "8e47a60816ba63e3c0b0c69624d74b864f3aeea9bb1267b42884c271d0c428a9"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "77648e26296071f790bea303b2b2c171b64681385e5b3bacada7d9f75dd54297"
+hash = "369d2850f7642e0ff00a9ed94b4966867d3a11ca5de4bc7a85bb74e0d29cbd60"
 metafile = true
