@@ -789,7 +789,7 @@ metafile = true
 
 [[files]]
 file = "mods/monolib.pw.toml"
-hash = "5c2f11ea39ae71efdb6fef6e0f601faeeacf10b4297057202a7ffd7bfbcb0d23"
+hash = "4387cfb8d69490641337ec3d42a8a434683a2d2b129990705e78a800f2795ad1"
 metafile = true
 
 [[files]]
