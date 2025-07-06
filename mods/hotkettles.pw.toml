@@ -1,0 +1,13 @@
+name = "Hot Kettles"
+filename = "hotkettles-neoforge-1.2.1+mc1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7aa50ebe1850b1767aaef66c62dfdb3461d12433"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6093501
+project-id = 1148583

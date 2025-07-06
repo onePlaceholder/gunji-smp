@@ -1,0 +1,13 @@
+name = "Vivecraft"
+filename = "vivecraft-1.21.1-1.2.5-neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6673a9da2092491b578aeb23e1c88672eaca2a71"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6208701
+project-id = 667903
