@@ -1,0 +1,13 @@
+name = "ViveCraft Compat"
+filename = "vivecraftcompat-1.21-1.5.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c6188240d00e9a7651a64e41113b531645f2c21d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6261928
+project-id = 895840

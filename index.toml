@@ -483,6 +483,11 @@ hash = "92d8711662b4e3fd42a57254571aca9f0b33a10bb7492a8fba59b22e78f688e6"
 metafile = true
 
 [[files]]
+file = "mods/custom-player-models.pw.toml"
+hash = "f39a320e3b77d94cdee5e445ef329a80838a8641dc0a503237b9f3e77efaeebb"
+metafile = true
+
+[[files]]
 file = "mods/customizable-elytra.pw.toml"
 hash = "85a58a146b99b9434deecc73d5494b7f565de9bb44a2a5e9aadb487f46e14bf0"
 metafile = true
@@ -1130,6 +1135,11 @@ metafile = true
 [[files]]
 file = "mods/vegan-delight.pw.toml"
 hash = "729114b00a1e99f2903ddc56a1ccc889b77b3854b0efc0caa3aa8e31032550b1"
+metafile = true
+
+[[files]]
+file = "mods/vivecraft-compat.pw.toml"
+hash = "4a986c2816690dee1f87b5fae0d18a4170f80c86a725570965cf333b94cb230e"
 metafile = true
 
 [[files]]
